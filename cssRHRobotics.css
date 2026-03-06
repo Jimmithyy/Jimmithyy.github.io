@@ -55,7 +55,7 @@ hr {
 .topLogo {
     height: 20vw;
     width: 20vw;
-    display: block;
+    display: inline;
 }
 
 .bottomBar h3 {
